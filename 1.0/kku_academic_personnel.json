@@ -1,0 +1,602 @@
+[
+    {
+        "title": "PROFESÖR",
+        "name": "ABDULLAH AYDIN",
+        "department": "Fizik"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ABDUSSAMED YEŞİLDAĞ",
+        "department": "Dünya Dilleri ve Edebiyatları"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ADNAN AKIN",
+        "department": "Yönetim ve Organizasyon"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ADNAN BULUT",
+        "department": "Kimya"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "AHMET DOĞAN",
+        "department": "Türk Halk Edebiyatı"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "AHMET KARADOĞAN",
+        "department": "Türk Dili"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "AHMET KÜRŞAD TÜRKER",
+        "department": "Endüstri Mühendisliği"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "AHMET KÜRŞAT AZKUR",
+        "department": "Veteriner Virolojisi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "AKTAN MÜGE ERCAN",
+        "department": "Türk Halk Bilimi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALİ ARAL",
+        "department": "Matematik"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALİ ÇETİN",
+        "department": "Mantık"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALİ ERDEMİR",
+        "department": "Endodonti"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALİ OLGUN",
+        "department": "Matematik"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALİ AHMET DOĞAN",
+        "department": "Hareket ve Antrenman Bilimleri"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALİ PAYIDAR AKGÜNGÖR",
+        "department": "İnşaat Mühendisliği"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALPARSLAN UĞUR",
+        "department": "Maliye"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ALTAN TUNÇEL",
+        "department": "İstatistik"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "AŞKIN GÜNGÜNEŞ",
+        "department": "Endokrinoloji ve Metabolizma Hastalıkları (İç Hastalıkları)"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ATİKE TEKELİ KUNT",
+        "department": "Kalp ve Damar Cerrahisi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "AYDANUR EKİCİ",
+        "department": "Göğüs Hastalıkları"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SEYFİ YILDIZ",
+        "department": "Maliye"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SEYHAN YILMAZ",
+        "department": "Kalp ve Damar Cerrahisi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SİBEL ARSLAN",
+        "department": "Beden Eğitimi ve Spor Eğitimi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SİBEL YASA DURU",
+        "department": "Veteriner İç Hastalıkları"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SİNAN AYAN",
+        "department": "Beden Eğitimi ve Spor Eğitimi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SİYAMİ KARAHAN",
+        "department": "Veteriner Histoloji ve Embriyolojisi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SUPHİ ASLANOĞLU",
+        "department": "Muhasebe"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SÜLEYMAN ÇİLEK",
+        "department": "Veteriner Zootekni"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "SÜLEYMAN ERSÖZ",
+        "department": "Yönetim Bilişim Sistemleri"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ŞAHİKA BURCU KARACA",
+        "department": "Fiziksel Tıp ve Rehabilitasyon"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ŞAHİN AHMETOĞLU",
+        "department": "İslam Mezhepleri"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "ŞULE ERGÖL",
+        "department": "Doğum ve Kadın Hastalıkları Hemşireliği"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TALİP KIRINDI",
+        "department": "Fen Bilgisi Eğitimi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TAMER EREN",
+        "department": "Endüstri Mühendisliği"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TARIK DANIŞMAN",
+        "department": "Biyoloji"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TOLGA EREN",
+        "department": "Elektrik-Elektronik ve Haberleşme Mühendisliği"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TUBA GÖKÇEK",
+        "department": "İlköğretim Matematik Eğitimi"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TUBA KAYMAN",
+        "department": "Tıbbi Mikrobiyoloji"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TURGUT DENİZ",
+        "department": "Acil Tıp"
+    },
+    {
+        "title": "PROFESÖR",
+        "name": "TÜLİN DURUKAN",
+        "department": "Pazarlama"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "SİBEL KIZIL",
+        "department": "Veterinerlik Mikrobiyolojisi"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "ŞABAN CEM SEZEN",
+        "department": "Histoloji ve Embriyoloji"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "ŞADİ KARAŞAHİNOĞLU",
+        "department": "Grafik"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "ŞUAYYİP YÜCEL",
+        "department": "Plastik Sanatlar"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "ŞULE GECE",
+        "department": "Felsefe"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TANSEL YAZICIOĞLU",
+        "department": "Zihin Engelliler Eğitimi"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TEVFİK OĞUREL",
+        "department": "Göz Hastalıkları"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TOLGA DEMİRCAN",
+        "department": "Makine Mühendisliği"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TUBA DERYA BASKAN",
+        "department": "Muhasebe"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TUĞCE KAYNAK AKÇAOĞLU",
+        "department": "Müzik Eğitimi"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TUĞÇE ÜNVER YILDIZ",
+        "department": "Matematik"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TUNA AYDIN",
+        "department": "Malzeme ve Metalurji Mühendisliği"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TUNCAY ŞİMŞEK",
+        "department": "Makine Mühendisliği"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TURGUT KÜLTÜR",
+        "department": "Fiziksel Tıp ve Rehabilitasyon"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "TÜRKAN SEZEN ERHAMZA",
+        "department": "Ortodonti"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "ULAŞ YÜKSEL",
+        "department": "Beyin ve Sinir Cerrahisi"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "ÜMİT ERDEM",
+        "department": "Fizik"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "ÜMİT AYŞE TANDIRCIOĞLU",
+        "department": "Neonatoloji (Çocuk Sağlığı ve Hastalıkları)"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "VASFİYE ÇELİK",
+        "department": "Kamu Yönetimi"
+    },
+    {
+        "title": "DOÇENT",
+        "name": "VOLKAN ARIKAN",
+        "department": "Çocuk Diş Hekimliği"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AHMET SAVRAN",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AHMET TÜRKOĞLU",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AHMET ENES SARAÇ",
+        "department": "Makine Mühendisliği"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AHMET SADRETTİN MADEN",
+        "department": "Çeviribilim"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AHMET YASİN İREN",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AKİF NALBANT",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ALİ KARAPINAR",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ALİ BURAK GÖRÜCÜ",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ALİ UĞUR KOÇ",
+        "department": "İç Mimarlık"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ALPER AKGÜL",
+        "department": "Milletlerarası Özel Hukuk"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ALPER TAŞAR",
+        "department": "Vergi Hukuku"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ALPER KEMAL GÜRBÜZ",
+        "department": "Fizyoterapi ve Rehabilitasyon"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ANIL HİKMET DEVECİ",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ARTUNER VARLIBAŞ",
+        "department": "İç Hastalıkları"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ASLI ATACAN ASLAN",
+        "department": "Ağız, Diş ve Çene Radyolojisi"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ASLI GİZEM ÖZTÜRK",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AYKUT HACIÖMEROĞLU",
+        "department": "İç Hastalıkları"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AYSEL ALEYNA TÜMTÜRK",
+        "department": "İlk Okuma Yazma Eğitimi"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AYŞE BETÜL GÖK",
+        "department": "İç Mimarlık"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "AYŞE BÜŞRA ELMAS",
+        "department": "Felsefe"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "SUNAY ÖZŞAHİN",
+        "department": "Rehberlik ve Psikolojik Danışmanlık"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "SÜHEYLA SARIAYDIN ATAY",
+        "department": "Dilbilimi"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "SÜMEYYA SELİMOĞLU",
+        "department": "İslam Tarihi ve Sanatları"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "SÜREYYA HAKAN DEMİRASLAN",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞERİFE ÇAKILCI ÖZKASAP",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞERİFE ÇOBANKAYA",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞEYMA ARSLANMİRZA",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞEYMA ÇAĞLAR",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞEYMA DEMİRTAŞ",
+        "department": "Din Felsefesi"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞEYMA KURT",
+        "department": "İdare Hukuku"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞEYMA NUR SİNGİL",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "ŞEYMANUR DİNÇ",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TAHA ALTUĞ",
+        "department": "Veteriner Fizyolojisi"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TAHA OĞUZHAN ŞARKIŞLA",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TOLGA ŞEN",
+        "department": "Elektrik-Elektronik Mühendisliği"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TUBA GÜNGÖR",
+        "department": "İş ve Sosyal Güvenlik Hukuku"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TUBA GİZEM AYDOĞAN",
+        "department": "Peyzaj Mimarlığı"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TUFAN DANACI",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TUĞBA AKTAŞ ASLAN",
+        "department": "İstatistik"
+    },
+    {
+        "title": "ARAŞTIRMA GÖREVLİSİ",
+        "name": "TUĞBA ATA",
+        "department": "Bilinmiyor"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "KUBİLAY BARIŞ",
+        "department": "Periodontoloji"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent)",
+        "name": "KURT ORKUN AKTAŞ",
+        "department": "İç Mimarlık"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "KÜBRA ALTUNSOY",
+        "department": "Spor Bilimleri"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "KÜBRA DURUKAN",
+        "department": "İstatistik"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MAHMUT ÜNVER",
+        "department": "Bilgisayar Bilimleri ve Mühendisliği"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MAKBULE EZGİ ERTEN",
+        "department": "Milletlerarası Kamu Hukuku"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MEHMET DEMİRCİ",
+        "department": "Hayvan Besleme ve Beslenme Hastalıkları"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MEHMET KÜÇÜKÇENE",
+        "department": "Eğitim Bilimleri"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MEHMET ÖKSÜZKAYA",
+        "department": "Nicel Karar Yöntemleri"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MEHMET YENİCE",
+        "department": "Arap Dili ve Belagatı"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MEHMET ESAT SARICAOĞLU",
+        "department": "Yakın Çağ Tarihi"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MEHMET NACİ OKTAY",
+        "department": "Veteriner Zootekni"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MEHTAP ARAL DUVAN",
+        "department": "Çeviribilim"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent)",
+        "name": "MELİKE TURAL SÖNMEZ",
+        "department": "İlköğretim Matematik Eğitimi"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ  (Unvan:Doçent)",
+        "name": "MEMET ÜÇGÜL",
+        "department": "Bilgisayar ve Öğretim Teknolojileri Eğitimi"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MERT CAN ERDOĞAN",
+        "department": "Yakın Çağ Tarihi"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MERVE AYDOĞDU",
+        "department": "Ağız, Diş ve Çene Radyolojisi"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MERVE BİŞKİN TÜRKMEN",
+        "department": "Veteriner Patolojisi"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MERVE HAYRAN POLAT",
+        "department": "Medeni Usul ve İcra İflas Hukuku"
+    },
+    {
+        "title": "DOKTOR ÖĞRETİM ÜYESİ",
+        "name": "MERVE VATANSEVER",
+        "department": "Uygulamalı Psikoloji"
+    }
+]
