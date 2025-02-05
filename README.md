@@ -1,6 +1,6 @@
 # AcademicDataCollection
 
-AKADEMIK KAZIMA  
+AKADEMIK VERI KAZIMA  
 YOK Akademik Veri Toplama Sistemi  
 --------------------------------------------------  
 
